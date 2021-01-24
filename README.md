@@ -15,7 +15,5 @@ Kaizen - the Japanese term meaning "change for the better" or "continuous” imp
 ## Python dependencies 
 Use `pip install <NAME_OF_LIBRARY>` to install these libraries on your machine or Python virtual environment:
 - flask
-- pillow
-- pyrebase
-- tesseract
-- pytesseract
+- python-client google-auth-httplib2 google-auth-oauthlib
+- pandas
